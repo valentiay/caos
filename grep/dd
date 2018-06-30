@@ -1,0 +1,10 @@
+/etc/profile.d/vte.sh
+/etc/profile.d/mozilla-common.csh
+/etc/profile.d/gpm.sh
+/etc/profile.d/perlbin.sh
+/etc/profile.d/gawk.csh
+/etc/profile.d/jre.sh
+/etc/updatedb.conf
+/etc/apparmor.d/lightdm-guest-session
+/etc/apparmor.d/abstractions/lightdm
+/etc/apparmor.d/abstractions/lightdm_chromium-browser
